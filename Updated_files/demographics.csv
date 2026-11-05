@@ -1,0 +1,501 @@
+CUST_ID,FIRST_NAME,LAST_NAME,DOB,PROVINCE,ANNUAL_INCOME
+10001,Aisha,Radebe,1983-08-22,Limpopo,192977.76
+10002,LWAZI,Smith,1984-05-10,Limpopo,130223.29
+10003,Thabo,Jacobs,1979-02-03,Mpumalanga,241834.25
+10004,Aisha,Zulu,1980-02-17,North West,216002.83
+10005,Karabo,Naidoo,1974-11-01,Eastern Cape,432922.58
+10006,,Dlamini,1967-07-28,Limpopo,627398.99
+10007,Nokuthula,Smith,1991-09-20,limpopo,392050.46
+10008,Annelie,Ndlovu,1972-08-08,KwaZulu-Natal,272384.32
+10009,Neo,Moyo,1996-01-31,limpopo,233163.07
+10010,Priya,Mokoena,1999-08-17,Gauteng,
+10011,Thulani,Ndlovu,1974-12-23,KwaZulu-Natal,405662.49
+10012,Ravi,Williams,1987-06-03,LIMPOPO,403198.79
+10013,Thandiwe,Singh,1983-05-02,North West,313006.67
+10014,fatima,Molefe,1978-01-28,Western Cape,133246.29
+10015,Refilwe,Jacobs,,Gauteng,439609.38
+10016,Ravi,Singh,1999-04-12,Free State,296807.13
+10017,David,Khumalo,1982-06-07,Gauteng,138868.12
+10027,NOMSA,botha,2001-04-18,KwaZulu-Natal,158976.16
+10018,Hendrik,tshabalala,2004-10-21,Western Cape,355887.95
+10019,Bongani,Maseko,1989-01-01,KwaZulu-Natal,
+10020,Andile,Nkosi,1989-09-09,Eastern Cape,
+10021,Kagiso,Naidoo,1994-07-19,Free State,78542.75
+10022,Neo,Patel,2004-06-24,Western Cape,185246.6
+10023,Chantel,Zulu,1953-08-11,Kwazulu Natal,182693.78
+10024,Andile,Williams,1989-07-17,North West,130155.95
+10025,Michael,Venter,1993-10-01,Gauteng,237267.95
+10026,Nomsa,Cele,1969-11-16,,594558.32
+10027,Nomsa,Botha,2001-04-18,KwaZulu-Natal,158976.16
+10028,Lwazi,Radebe ,1975-03-16,Limpopo,40607.4
+10029,Nomsa,Dlamini,1997-10-10,Eastern Cape,308899.2
+10030,Busisiwe,Naidoo,1986-05-25,Limpopo,152908.5
+10031,BUSISIWE,,1993-07-15,Eastern Cape,443027.23
+10032,Naledi,Radebe,1991-02-26,Limpopo,372351.19
+10033,Lindiwe,Baloyi,1996-06-21,Mpumalanga,334669.3
+10034,Thandiwe,van der Merwe,2004-04-06,Free State,148775.76
+10035,Riaan,Williams,1990-04-13,Eastern cape,828363.7
+10036,,Smith,2000-02-13,limpopo,280330.81
+10037,Nomsa,Naidoo,2004-11-25,EC,161693.93
+10038,Lwazi,Nkosi,1991-02-05,Gauteng,212145.71
+10039,sibusiso,,1993-06-05,Free State,241110.4
+10040,Lwazi,Moyo,1996-10-20,North West,339181.71
+10041,Zanele,du Plessis,1974-05-22,Free State,147682.72
+10042,Tshepo,Mokoena,1976-02-14,Gauteng,503095.78
+10043,Bongani,Adams,1979-07-23,Free State,106024.23
+10044,bongani,Ndlovu,2005-07-05,KwaZulu-Natal,425190.24
+10045,Fatima ,Moyo,2000-07-26,NC,480185.48
+10046,Lindiwe,Mahlangu,1992-10-09,E. Cape,202868.33
+10047,Chantel,Nkosi,1986-05-31,WESTERN CAPE,289009.28
+10048,Andile,Mthembu,1964-12-30,KwaZulu-Natal,150255.01
+10049,Ayanda,Sithole,1959-02-18,KwaZulu-Natal,193082.63
+10050,Zanele,Mthembu,1992-01-19,Eastern Cape,65864.12
+10051,Thulani,Mthembu,1999-06-05,Eastern Cape,201358.08
+10052,Ravi,Radebe,1988-03-24,Gauteng,148605.67
+10053,Tshepo,Radebe,1985-11-21,KwaZulu-Natal,102145.76
+10054,Annelie,Mahlangu,1978-10-23,North West,426416.03
+10055,Priya,Cele,1980-01-11,Limpopo,213099.36
+10056,Lwazi,Khumalo,2008-10-29,,378906.88
+10057,Lwazi,Mthembu,1996-07-27,KwaZulu-Natal,240582.28
+10058,Jacques,Moyo,1976-12-08,GP,115713.66
+10059,Michael,Jacobs,1972-03-02,Mpumalanga,1311638.69
+10061,AYANDA,mahlangu,1999-06-14,KwaZulu-Natal,165014.85
+10060,Tshepo,Mokoena,1987-12-04,KZN,209479.6
+10061,Ayanda,Mahlangu,1999-06-14,KwaZulu-Natal,165014.85
+10062,Thulani,Tshabalala,1987-08-22,Limpopo,455739.91
+10063,Zodwa,Williams,2000-03-28,Eastern Cape,186895.81
+10064,Andile,Radebe,1994-10-24,Limpopo,242903.02
+10065,Riaan,Singh,1989-05-20,Gauteng,250186.11
+10066,Nomsa,MOKOENA,1992-04-02,KwaZulu Natal,129551.97
+10067,,Mokoena,,North West,400919.94
+10068,SIPHO,Jacobs,1989-06-19,Gauteng,191695.02
+10069,Hendrik,Radebe,2008-10-29,Gauteng,306341.43
+10070,Busisiwe,Mthembu,1968-02-29,Northern Cape,174708.87
+10071, Thulani,Nkosi,1964-11-29,Free State,157329.68
+10072,Tshepo,Pillay,1968-06-12,Limpopo,121441.77
+10073,Zodwa,Mahlangu,2000-03-11,LP,279067.49
+10074,Sibusiso,Cele,2005-07-27,North-West,255411.92
+10075,Michael,Mthembu,1987-11-21,Mpumalanga,129496.01
+10076,Michael,Sithole,1985-03-06,North West,203188.93
+10050,Zanele,Mthembu,1992-01-19,Eastern Cape,65864.12
+10077,KARABO,Sithole,1975-07-28,Gauteng,236857.41
+10078,Andile,Mokoena,1977-05-04,North West,60037.43
+10079,Hendrik,Cele,1980-08-17,Limpopo,247662.23
+10080,Tshepo,Molefe,1988-02-01,LIMPOPO,182195.2
+10081,Annelie,Mokoena,1993-05-15,KwaZulu-Natal,281659.22
+10082,Zanele,Smith,,Gauteng,124246.83
+10083,SARAH,Pillay,1988-02-09,North West,729742.5
+10084,Mohamed,Mokoena,1993-08-12,Gauteng,
+10085,Thabo,Patel,2000-11-11,KwaZulu-Natal,347453.19
+10086,Hendrik,Pillay,1987-07-19,Mpumalanga,493567.22
+10087,Priya,Williams,1989-03-21,Eastern Cape,299306.99
+10088,Jacques,Baloyi,1975-07-01,W Cape,143922.19
+10089,Naledi,Cele,1998-04-13,GP,401356.36
+10090,Kagiso,Molefe,1982-08-01,Limpopo,297949.88
+10091,Bongani,Mahlangu,1978-07-15,Gauteng,572977.82
+10092,Nomsa,Botha,1994-01-15,Mpumalanga,
+10093, Annelie,MASEKO,1974-08-10,KwaZulu-Natal,563232.5
+10094,Busisiwe,Dlamini,1989-10-25,North West,279744.71
+10095,Thulani,Tshabalala,1973-08-18,Gauteng,
+10096,Zanele,Joubert,1953-06-10,Western Cape,
+10097,Mpho,Naidoo,1988-11-08,Western Cape,643831.4
+10098,Ayanda,Maseko,1989-02-11,Western Cape,160082.8
+10099,Fatima,Jacobs,1980-10-12,KwaZulu-Natal,147453.32
+10100,Ayanda,Dlamini,1959-06-06,Gauteng,370728.5
+10101,Naledi,Mokoena,1999-06-26,Western Cape,445196.55
+10102,Busisiwe,Williams,1969-11-07,Gauteng ,327978.06
+10103,Fatima,Venter,2003-10-16,Free State,275887.53
+10104,michael,Mahlangu,1982-12-07,NW,487634.29
+10105,Mohamed,Petersen,1984-12-21,Gauteng,628733.39
+10106,Thulani,Radebe,2003-08-26,Western Cape,1088258.93
+10107,Zodwa,Ndlovu,2003-10-24,Western Cape,182163.89
+10108,Kagiso,Petersen,1991-09-23,Mpumalanga,417978.55
+10109,Priya,Joubert,1962-07-23,NC,183463.06
+10110, Riaan,Maseko,1990-12-29,KwaZulu-Natal,385657.84
+10111,Lindiwe,Cele,2000-10-07,Limpopo,382029.0
+10112,Aisha,Venter,1949-01-11,Gauteng,241120.35
+10113,Tshepo,Govender,1990-12-23,KwaZulu-Natal,201297.47
+10114,Karabo,Mthembu,1981-11-18,Limpopo,110411.78
+10115,Annelie,Mokoena,1986-12-14,Limpopo,121435.41
+10116,Johan,Venter,1970-11-03,Free State,160542.91
+10117,Nokuthula,Patel,1988-03-16,KwaZulu-Natal,135126.57
+10118,Nokuthula,Khumalo,1974-08-24,Eastern Cape,375907.06
+10119,Mohamed,Cele,1978-06-18,Gauteng,
+10120,Sarah,Sithole,1983-11-14,Limpopo,221525.13
+10264,AYANDA,singh,2001-08-07,Western Cape,119748.29
+10121,Yusuf,Govender,1995-03-01,Free State,1078608.3
+10122,Sarah,du Plessis,1976-11-28,North West,495557.09
+10123,Palesa,Tshabalala,1974-01-24,North West,
+10124,Fatima,Venter,1985-06-03,Kwazulu Natal,224336.97
+10484,RIAAN,baloyi,1983-01-25,Eastern Cape,211034.99
+10125,Sibusiso,Pillay,1979-04-20,Limpopo,185280.99
+10126,Riaan,Khumalo,1988-01-07,Eastern Cape,512601.91
+10127,Fatima,van der Merwe,1981-03-11,Gauteng,469068.21
+10128,Sibusiso,Radebe,1998-01-06,Free State,276966.79
+10129,Ayanda,Cele,1977-04-19,gauteng,361226.81
+10130,,PETERSEN,1987-03-25,KwaZulu-Natal,204641.74
+10131,Nomsa,Ndlovu,,KwaZulu-Natal,832826.43
+10132,Lerato,Dlamini,1978-11-13,Mpumalanga ,114284.24
+10133,Lwazi,Smith,1993-05-15,Eastern Cape,279233.78
+10134,Busisiwe,Nkosi,1977-09-22,KwaZulu-Natal,989175.58
+10135,Tshepo,Patel,1982-05-18,KwaZulu-Natal,144045.61
+10136,Sibusiso,Govender,1975-06-15,Eastern Cape,421356.62
+10137,Yusuf,Molefe,1988-03-15,WESTERN CAPE,401443.19
+10138,Jacques,Naidoo,,,378597.77
+10139,Thulani,Singh,1991-06-27,Limpopo,
+10140,Chantel,Pillay,,Mpumalanga,169645.51
+10141, Naledi,Mahlangu,2008-10-29,Western Cape,618444.07
+10142,Aisha,Sithole,1995-12-27,KwaZulu-Natal,239540.76
+10143,Lwazi,Dlamini,1980-12-10,Eastern Cape,959592.17
+10144,Chantel,Petersen,1984-10-11,Free State,142469.9
+10145,Refilwe,smith,2000-11-14,Gauteng,209625.09
+10146,Fatima,Jacobs,1989-06-05,KwaZulu-Natal,
+10147,Riaan,Mthembu,1997-07-11,limpopo,340531.88
+10148,Lerato,Botha,1983-08-04,,441719.58
+10149,Johan,van der merwe,1990-11-20,Limpopo,89035.04
+10150,David,du Plessis,1985-09-26,Kwazulu Natal,245686.15
+10151,Riaan,Dlamini,1962-06-13,Limpopo,414868.45
+10152,Michael,Smith,,Mpumalanga,
+10153,Mpho,Govender,2001-12-08,Limpopo,129898.28
+10154,David,Tshabalala,2003-08-05,Gauteng,-288216.07
+10155,Karabo,Singh,1997-11-09,Limpopo,353940.99
+10156,Neo,Ndlovu,1986-10-17,Limpopo,625939.07
+10157,Riaan,Venter,1988-11-25,North West,125246.04
+10158,Palesa,Petersen,1976-09-03,KwaZulu-Natal,315085.63
+10159,Fatima,Govender,1992-03-12,Western Cape,129393.43
+10160,Priya,Khumalo,1972-11-29,Gauteng,947077.95
+10161,Neo,Jacobs,1993-05-31,Eastern Cape,332409.85
+10162,Hendrik,Venter,1952-07-30,Eastern Cape,185466.81
+10163,Annelie,Venter,1970-08-27,Gauteng,220538.15
+10164,Karabo,Venter,1990-12-07,Eastern Cape,91998.42
+10165,Nomsa,VENTER,1984-11-09,GP,322932.36
+10166,Zanele,Dlamini,1973-04-09,Gauteng,405828.08
+10167,Sibusiso,Baloyi,1989-04-21,KZN,267338.33
+10168,Andile,Naidoo,1989-11-26,KwaZulu-Natal,419351.81
+10169,Palesa,van der Merwe,1984-09-20,Eastern Cape,147343.53
+10170,,Radebe,1972-05-09,Limpopo,141373.08
+10171,naledi,Sithole,1979-04-02,Free State,126871.5
+10172,Mohamed,Mthembu,1987-03-23,KwaZulu-Natal,126684.2
+10173,Ayanda,Zulu,1955-03-02,,140958.32
+10087,Priya,Williams,1989-03-21,Eastern Cape,299306.99
+10174,Jacques,Khumalo,1997-11-05,Western Cape,107805.22
+10175,Sibusiso,Radebe,2008-10-29,Free State,214274.8
+10176,Yusuf,Mahlangu,1966-10-04,Northern Cape,180780.6
+10177,Lwazi,Baloyi,1997-07-31,Gauteng,824741.5
+10178,Kagiso,Adams,2007-01-24,Western Cape,136373.54
+10179,Tshepo,Ndlovu,1990-04-10,N Cape,103264.61
+10180,Mohamed,Dlamini,1989-09-12,KwaZulu-Natal,544887.61
+10181,Jacques,,1962-08-18,Gauteng,73556.88
+10182,Busisiwe,Govender,1999-10-06,KwaZulu-Natal,558266.12
+10183,Riaan,Venter,1978-10-01,Gauteng,155956.34
+10184,Neo,Khumalo,1971-10-25,,-287583.64
+10185,Yusuf, Zulu,1994-06-22,Gauteng,98555.22
+10186,Karabo,Zulu,1985-08-25,Gauteng,210161.62
+10187,Andile,van der Merwe,1999-10-15,Gauteng,463330.28
+10188,Zanele,Williams,1981-04-29,Gauteng,230704.6
+10189,Hendrik,Mokoena,1992-10-15,Gauteng ,147402.57
+10190,Sibusiso,Mahlangu,1982-03-28,north west,324160.34
+10191,Pieter,du Plessis,1986-12-30,KwaZulu-Natal,644971.73
+10192,Sarah,Molefe,1996-12-01,Western Cape,141463.96
+10193,,Mthembu,1981-01-01,Northern Cape,234217.93
+10194,Lerato,van der Merwe,1982-01-04,North-West,683625.85
+10195,Sibusiso,Zulu,1979-04-10,KwaZulu Natal,157136.43
+10196,Neo,van der merwe,1983-11-01,Western Cape,149100.96
+10197,Zanele, Joubert,1993-04-26,Western Cape,194410.55
+10198,Mpho,Smith,1966-02-09,Gauteng,
+10199,Pieter ,Williams,,Limpopo,544697.04
+10200,Zodwa,Molefe,1975-03-07,North West,219802.0
+10201,Fatima,Smith,1959-08-21,Mpumalanga,481098.09
+10202,Annelie,Williams,1998-07-06,Northern Cape,186033.8
+10203,Ayanda,Jacobs,2002-12-02,KwaZulu-Natal,399012.38
+10204,Annelie ,Radebe,1984-12-01,Western Cape,212142.51
+10092,Nomsa,Botha,1994-01-15,Mpumalanga,
+10205,Refilwe,Baloyi,1984-01-20,North West,356790.36
+10206,Kagiso,Zulu,1971-06-29,Free State,204403.71
+10207,Lwazi,Mokoena,1986-03-28,GAUTENG,151610.81
+10208,Thulani,van der Merwe,1996-04-02,Gauteng,260829.64
+10209,Naledi,Jacobs,1958-02-07,Eastern Cape,379954.73
+10210,David,Joubert,1984-02-10,Gauteng,627536.65
+10211,Ravi,Venter,1975-04-15,KwaZulu-Natal,222987.89
+10212,Sibusiso,Govender,1988-01-11,Eastern Cape,199532.42
+10213,Aisha,Dlamini,1994-05-22,KwaZulu-Natal,189130.58
+10214,Neo,du Plessis,1993-07-18,kzn,154450.5
+10215,David,,1975-02-18,Gauteng,267981.96
+10216,Mpho,Mthembu,1966-01-10,North-West,221673.16
+10217,Chantel,van der Merwe,1980-04-30,NW,332885.72
+10218,Neo,Singh ,1965-05-05,Gauteng,206535.08
+10219,Michael,Adams,1985-07-19,Northern Cape,264879.24
+10220,,Singh,1982-04-06,Free State,582600.51
+10221,Sipho,Dlamini,1979-09-23,Gauteng,264929.69
+10029,Nomsa,Dlamini,1997-10-10,Eastern Cape,308899.2
+10222,Refilwe,van der Merwe,1993-11-26,KwaZulu-Natal,232349.06
+10223,Refilwe,Singh,1983-10-26,Western Cape,190429.96
+10224,Fatima,Mahlangu,1984-02-26,Eastern cape,123558.86
+10225,Thulani,Patel,1962-09-25,Gauteng,117497.01
+10226,Karabo,van der Merwe,2006-01-02,Mpumalanga,284331.49
+10227,Jacques,Sithole,2000-04-12,KwaZulu-Natal,335540.55
+10228,Hendrik,Petersen,1989-07-04,NW,261256.34
+10229,Hendrik,Govender,1969-08-04,KwaZulu-Natal,271639.71
+10230,Thandiwe,Mthembu,1967-12-24,Western Cape,280292.33
+10231,Mpho,Sithole,1972-06-09,W Cape,513657.54
+10232,Neo,Radebe,1966-03-28,Western Cape,358181.66
+10233,Priya,Molefe ,1972-04-01,Gauteng,128799.36
+10234,Lwazi,Maseko,1979-10-23,KwaZulu-Natal,413153.69
+10235,Andile,Maseko,1975-02-27,Western Cape,
+10236,Hendrik ,Joubert,1982-02-21,E. Cape,94286.23
+10237,Pieter ,Cele,1978-10-27,Eastern cape,205596.76
+10238,Mpho,Botha,1983-12-30,,607494.24
+10239,Refilwe,Venter,1985-02-16,KwaZulu-Natal,234790.67
+10240,Zanele,Nkosi,1976-07-15,Limpopo,511356.83
+10241,Palesa,Adams ,1971-10-29,kzn,358480.7
+10242,Thabo,Mokoena,1993-03-26,KwaZulu-Natal,181102.08
+10243, Neo,Nkosi,1988-12-06,KwaZulu-Natal,170830.93
+10244,Ravi,Ndlovu,1990-12-06,LIMPOPO,359147.55
+10245,Mohamed,Joubert,1967-05-25,Gauteng,
+10246,Hendrik,Jacobs,1972-10-24,Western Cape,214544.31
+10247,pieter,Govender,1982-02-22,Western Cape,90092.48
+10248,Lwazi,Moyo,1981-11-24,Western Cape,278963.01
+10249,Fatima,Radebe,1984-12-02,gauteng,179797.82
+10250,Annelie,van der Merwe,1984-10-14,Western Cape,274926.94
+10251,Lerato,Ndlovu,1987-07-11,Gauteng,212751.28
+10252,Nomsa,Baloyi ,2003-09-05,North West,407568.43
+10253,Mohamed,Jacobs,1966-04-17,Eastern Cape,199024.97
+10254,Karabo,Ndlovu,2008-10-29,GAUTENG,137219.75
+10255,Chantel,Singh,1989-07-24,KwaZulu-Natal,227038.09
+10256,Fatima,Dlamini,1998-01-02,Mpumalanga ,167879.06
+10257,Sipho,Venter ,1994-07-11,Eastern Cape,185711.85
+10258,Kagiso,Singh,1982-01-23,Gauteng,393428.93
+10259,Lindiwe,Patel,1986-09-15,Eastern Cape,872491.45
+10260,Yusuf,Khumalo,1981-03-01,KwaZulu-Natal,204898.46
+10261,Zanele,Cele,1998-02-20,,371304.16
+10262,Karabo,Williams,1985-07-09,Western Cape,165951.36
+10263,Zodwa,Joubert,1979-06-06,Gauteng,202005.5
+10264,Ayanda,Singh,2001-08-07,Western Cape,119748.29
+10265,Jacques,Petersen,1990-03-03,KwaZulu-Natal,215070.9
+10266,Busisiwe,mthembu,1982-03-03,Gauteng,123907.27
+10267,Andile,Molefe,1980-11-18,Free State,179916.17
+10268,Karabo,Venter,2001-05-04,WESTERN CAPE,330126.62
+10269,Aisha,Williams,1991-01-29,Northern Cape,266913.14
+10270,Ayanda,Dlamini,1991-01-27,Eastern Cape,512032.45
+10271,Priya,Smith,1994-02-08,KwaZulu-Natal,
+10272,Andile,mokoena,2002-11-28,mpumalanga,259459.33
+10273,Nokuthula,Botha,1987-09-30,Gauteng,410790.84
+10274,Johan,Tshabalala,1985-07-22,,698761.12
+10275,Nomsa,Mthembu,2008-09-19,Eastern Cape,152696.81
+10276,Refilwe,Adams,1985-08-10,Limpopo,
+10277,Riaan,Govender,2008-10-29,Gauteng,268741.65
+10278,Kagiso,Molefe,2002-08-29,LP,245897.37
+10279,Lwazi,Joubert,1964-06-03,Gauteng,132504.44
+10280,Aisha,Moyo,1986-11-01,Western Cape,510256.45
+10281,Sipho,Botha,1987-05-27,Free State,666690.03
+10282,Johan,Molefe,1978-12-29,Gauteng,374113.99
+10283,Mohamed,Williams,,Northern Cape,127991.91
+10284,Andile,Mthembu,,Mpumalanga,174039.26
+10285,Karabo,Mahlangu,1970-01-05,Gauteng,256125.45
+10286,Tshepo,Maseko,1983-09-27,Gauteng,386938.78
+10287,Karabo,Sithole,1995-03-05,KwaZulu-Natal,-367307.79
+10288,Refilwe,Mahlangu,1991-12-29,Gauteng,221476.61
+10289,Karabo,Nkosi,2007-05-11,KwaZulu-Natal,413022.3
+10290,Mohamed,Mokoena,1989-07-24,KwaZulu-Natal,150126.56
+10291,Hendrik,Williams,1986-12-28,Gauteng,231488.9
+10292,Bongani,Venter,1994-06-03,Gauteng,
+10293,Andile,Mahlangu,1996-05-09,Mpumalanga,414682.44
+10294,Mpho,Tshabalala,1998-10-10,Eastern Cape,513680.26
+10295,Fatima,Baloyi,1996-01-13,Eastern Cape,
+10296,Annelie,Tshabalala,1982-04-20,LP,394026.17
+10297,Ayanda,Radebe,1988-06-10,Western Cape,778286.7
+10298,Karabo,Naidoo,1982-11-27,Western Cape,461365.44
+10299,Ayanda,Singh,1981-08-07,Gauteng,412845.51
+10300,Ravi,Cele,1969-06-09,Eastern Cape,120037.67
+10301,Aisha,Nkosi,1982-09-11,Gauteng,111053.34
+10302,Kagiso,Venter,2008-10-29,KwaZulu-Natal,314757.24
+10475,thabo,du Plessis,1971-04-19,Gauteng,169037.24
+10303,Lerato,Joubert,1989-05-25,Gauteng,327502.61
+10304,Hendrik,Zulu,1998-06-10,Western Cape,
+10305,Fatima,Nkosi,1991-05-18,North West,-199197.37
+10306,Ravi,Sithole,1976-08-09,Eastern Cape,188931.51
+10307,Chantel,Ndlovu,1973-07-08,Gauteng,230635.94
+10308,Naledi,Smith,1983-08-29,KZN,303678.41
+10309,Zodwa,Botha,1964-07-20,KwaZulu-Natal,386747.11
+10310,Lindiwe,Mthembu,1994-06-14,KwaZulu-Natal,366813.89
+10311,Zanele,Adams,1989-07-14,Limpopo,196302.58
+10312,Fatima,Botha,1980-10-09,KwaZulu-Natal,201974.49
+10313,Chantel,Botha,1999-11-28,Western Cape,328360.1
+10314,ZANELE,Sithole,1976-07-07,North-West,
+10315,Bongani,Adams,1967-09-01,kzn,641032.87
+10316,Jacques ,Joubert,1982-11-14,Gauteng,216300.29
+10317,Annelie,Patel,1979-07-09,Limpopo,174604.13
+10183,Riaan,Venter,1978-10-01,Gauteng,155956.34
+10318,Sipho,Jacobs,1973-08-28,Limpopo,120077.17
+10319,Jacques,Petersen,1978-05-11,Northern Cape,111078.45
+10320,Nokuthula,Petersen,1978-10-09,Limpopo,564974.01
+10321,Naledi,williams,1983-12-04,Gauteng,162817.82
+10322,Sarah,Molefe,1991-06-16,Eastern Cape,275801.84
+10323,Michael,Petersen,1966-01-18,EC,236028.23
+10324,Tshepo,Jacobs,1981-08-25,,151948.82
+10325,Karabo,Venter,1989-08-13,Gauteng,374971.89
+10326,Sibusiso,Venter,1958-05-26,Free State,174340.15
+10327, Nokuthula,,1963-12-15,Gauteng,403271.57
+10328,Michael,Sithole,1985-11-05,Mpumalanga,237174.46
+10329,Andile,Moyo,1995-05-27,,296772.21
+10330,David,Botha,1975-02-10,North-West,
+10331,Nomsa,Ndlovu,1990-03-21,Eastern Cape,421148.71
+10332,Aisha ,Nkosi,1966-03-28,Gauteng,239973.36
+10431,Zanele,Sithole,1965-01-25,E. Cape,251146.3
+10333,Thabo,Maseko,2008-10-29,KwaZulu-Natal,269548.35
+10334,Aisha,Pillay,1978-07-17,KwaZulu-Natal,191390.14
+10335, Mohamed,Cele,1976-12-24,Northern Cape,813214.48
+10336,Priya,Baloyi,2003-10-17,KwaZulu-Natal,208210.56
+10337,Karabo,Zulu,1957-02-11,Northern Cape,489701.32
+10338,Lwazi,Mthembu,1991-08-21,EC,202348.27
+10339,David,Smith,1975-12-21,W Cape,943537.78
+10340,Tshepo,joubert,1985-12-26,KZN,208113.3
+10341,Lindiwe,van der Merwe,2002-10-13,KwaZulu-Natal,118461.33
+10342,hendrik,Tshabalala,1973-10-10,Northern Cape,275437.95
+10343,Refilwe,Jacobs,2008-10-29,KwaZulu-Natal,224415.63
+10344,Michael,Naidoo,1981-03-12,KwaZulu-Natal,286777.33
+10345,Palesa,Patel,1986-06-07,Eastern Cape,515245.43
+10346,Nomsa,Khumalo ,1963-06-09,GP,1214856.04
+10347,Zanele,Pillay,1989-07-02,Gauteng,305780.32
+10348,Thandiwe,Botha,1986-12-13,KwaZulu-Natal,287309.55
+10349,Chantel,Mokoena,1980-12-08,Western Cape,482833.06
+10350,Neo,Botha,1981-03-08,KwaZulu Natal,263072.85
+10351,Kagiso,du Plessis,1992-11-30,Western Cape,342104.45
+10352,Sipho,Singh,1997-12-08,Mpumalanga,225644.39
+10353,Lindiwe,Mokoena,1972-12-18,Mpumalanga,
+10354,Kagiso,Williams,1985-01-06,Western Cape,313879.22
+10355,Pieter,Singh,2003-09-25,W Cape,391166.36
+10356,Tshepo,Venter,1990-12-15,KwaZulu-Natal,800459.79
+10357,Priya,Nkosi,1963-10-31,Free State,328840.8
+10358,Karabo,Petersen,1976-12-08,LIMPOPO,121703.87
+10359,Nomsa,van der Merwe,1992-03-24,LP,612645.96
+10360,Pieter,Patel,1968-05-18,,361454.33
+10361,Tshepo,Molefe,2008-10-07,,40059.41
+10362,lindiwe,Venter,2007-07-17,KwaZulu-Natal,567580.38
+10363,Priya,Pillay,1998-09-22,Gauteng ,520357.41
+10243, Neo,Nkosi,1988-12-06,KwaZulu-Natal,170830.93
+10364,Naledi,Venter,1988-07-02,KZN,739723.19
+10365,Busisiwe,Dlamini,1992-10-12,Gauteng,
+10366,David,Mokoena,1977-06-28,,232383.14
+10367,Aisha,Williams,1969-07-01,MP,275247.35
+10368,PIETER,Patel,1978-10-09,Eastern Cape,154828.46
+10369,Annelie,Dlamini,1969-03-10,Gauteng,373538.46
+10370,Chantel,Botha,1977-02-08,KwaZulu-Natal,232599.66
+10371,Riaan,Mthembu,1974-04-08,EC,243571.05
+10372,Pieter,Mokoena,1980-04-09,KwaZulu-Natal,553889.51
+10373,Zodwa,Williams,1991-11-14,Gauteng,390762.41
+10374,Nokuthula,,1995-12-21,Eastern Cape,236277.48
+10375,HENDRIK,Govender,1992-12-04,KwaZulu-Natal,80017.31
+10376,Tshepo,Mokoena,1984-05-21,W Cape,163183.3
+10377,Zanele,Botha,1962-02-15,Gauteng,44175.15
+10378,Nokuthula,Tshabalala,2002-04-29,Eastern Cape,182143.79
+10379, Lerato,Govender,1963-01-12,Western Cape,-82583.08
+10380,Zanele,Baloyi,1996-07-21,Mpumalanga,419538.46
+10381,Johan,Zulu,2008-10-29,limpopo,271319.6
+10382,Ravi,du Plessis,1978-03-02,Free State,202822.91
+10383,Zanele,Ndlovu,1982-10-19,KwaZulu-Natal,130013.12
+10384,Neo,Dlamini,1982-01-04,Gauteng,
+10385,Aisha,Baloyi,2008-01-12,WC,357391.53
+10386,Pieter,Adams,1990-11-29,Limpopo,
+10387,Tshepo,Maseko,1959-06-17,Gauteng,241270.55
+10388,Ayanda,BOTHA,1992-11-29,North West,
+10389,Hendrik,Williams,1987-01-28,North West,-274075.12
+10390,Lindiwe,Mokoena,1976-01-25,Free State,430711.12
+10391,Pieter,Sithole,1997-03-11,Eastern Cape,418225.22
+10392,Lwazi,du Plessis,1981-05-12,Free State,178843.99
+10393,Palesa,Patel,1984-10-03,WESTERN CAPE,206441.79
+10394, Hendrik,Smith,1987-01-15,Gauteng,632667.52
+10395,Fatima,Molefe,2004-11-21,Mpumalanga ,660807.72
+10396,Karabo,Botha,1992-12-28,kzn,132327.19
+10397,Thandiwe,Khumalo,1990-01-29,North West,112622.95
+10398,Nokuthula,Williams,1985-02-20,Western Cape,325239.65
+10399,Zodwa,Radebe,1979-04-27,North West,456879.95
+10400,Sipho,Govender,1991-07-28,Eastern Cape,253193.36
+10401,Ravi,Smith,1985-12-14,Mpumalanga,601838.92
+10402, Priya,Adams,2001-04-14,Eastern Cape,633239.87
+10403,Lwazi,Ndlovu,2001-07-23,Eastern Cape,367672.08
+10404,Ayanda,Pillay,1970-04-08,KwaZulu-Natal,428746.09
+10405,Aisha,Williams,2005-11-13,KwaZulu-Natal,706865.45
+10406,Mpho,Patel,1985-08-13,Eastern Cape,224082.11
+10407,Palesa,Dlamini,2001-01-23,KwaZulu-Natal,101894.84
+10408,Michael,Moyo,1959-07-09,KwaZulu-Natal,107409.94
+10409,Aisha,Petersen,2004-08-05,Gauteng,75372.74
+10410,Ayanda,Mthembu,2004-03-10,Eastern Cape,393866.82
+10411,Yusuf,Petersen,1995-08-27,KwaZulu-Natal,-941924.55
+10412,Zanele,smith,1996-08-23,North West,275513.89
+10413,Palesa,Cele,1990-09-19,Free State,201898.67
+10414,Hendrik,Patel,1981-01-07,Eastern Cape,254638.22
+10415,Pieter,Molefe,2008-03-22,GP,
+10416,Naledi,Mokoena,1978-11-19,Eastern Cape,179565.56
+10417,Zanele,Mthembu,1984-08-21,Mpumalanga,252132.24
+10418,Karabo,Petersen,2002-07-23,KwaZulu-Natal,350053.79
+10419,Palesa,Patel ,1997-03-14,Gauteng,734233.63
+10420,Busisiwe,Mthembu ,1986-01-25,KwaZulu Natal,457301.26
+10421,Lindiwe,Petersen,1978-11-22,KwaZulu-Natal,205977.99
+10422,Nomsa,Williams,1982-08-31,North West,266164.03
+10423,Lerato,Cele,1975-03-24,Western Cape,209508.67
+10424,Kagiso,Radebe,1994-11-28,Western Cape,426624.94
+10425,Aisha,Joubert,1979-01-18,Gauteng,417355.18
+10426,Andile,Cele,2008-10-29,Gauteng,362111.82
+10427,Andile,zulu,1999-06-12,KwaZulu-Natal,101863.06
+10428,Thulani,Patel,2008-10-29,Free State,207201.73
+10429,Nomsa,Petersen,1986-09-30,north west,218566.35
+10430,Annelie,van der Merwe,1996-12-09,KwaZulu Natal,
+10431,Zanele,Sithole,1965-01-25,E. Cape,251146.3
+10432,Pieter,van der merwe,1979-10-27,E. Cape,443207.65
+10433,Sipho,Singh,1981-11-02,Gauteng,565306.44
+10434,Bongani,Nkosi,1989-09-12,Limpopo,86780.06
+10435,Mohamed,Pillay,1983-01-25,KwaZulu-Natal,352305.78
+10436,Sarah,Venter ,1984-06-14,Limpopo,418074.11
+10437,Nokuthula,Jacobs,1983-08-01,Gauteng,50359.64
+10438,Lerato,Patel,1989-08-14,Western Cape,340298.52
+10439,Riaan,Dlamini,1976-05-26,Eastern Cape,488866.67
+10440,Priya,Smith,2002-01-04,Limpopo,154810.55
+10441,Michael,Mthembu,1982-02-09,Eastern Cape,425687.61
+10442,Yusuf,Smith,1997-10-14,KwaZulu-Natal,170945.7
+10443,Hendrik,Sithole,1989-03-23,Gauteng,451885.04
+10444,Refilwe,Naidoo,2007-03-25,Limpopo,
+10445,Aisha,adams,1998-10-11,Gauteng,175697.99
+10446,Fatima,Pillay,2001-04-22,North West,
+10447,Riaan,Mokoena,2008-10-29,North West,48840.68
+10448,Karabo,MASEKO,1998-08-19,north west,499791.09
+10449,Nomsa,Tshabalala,1967-10-13,North West,366959.49
+10450,Nokuthula,Mthembu,1987-09-22,Gauteng,220725.7
+10451,Thandiwe,Cele,1961-05-07,KwaZulu-Natal,236267.52
+10452,Neo,Khumalo,1972-08-30,Northern Cape,498268.45
+10453,Aisha,Mahlangu,1981-07-02,Limpopo,281491.85
+10454,LWAZI,Moyo,1995-05-26,Northern Cape,349214.31
+10455,Karabo,Ndlovu,2005-06-24,Mpumalanga,143343.21
+10456,Mpho,Venter,2003-09-23,KwaZulu-Natal,
+10457,Pieter,Williams,2004-11-08,,90114.35
+10458,Annelie,Tshabalala,1983-01-04,KZN,262828.58
+10459,Sibusiso,Maseko,1975-02-05,Western Cape,517359.5
+10460,Sarah,Singh,2008-10-29,Western Cape,117459.84
+10461,Ayanda,Pillay,1982-02-07,Gauteng,173904.43
+10462, Bongani,Maseko,1994-07-17,KwaZulu Natal,412747.91
+10463,Refilwe,van der Merwe,1977-06-10,Northern Cape,233663.21
+10464,Zanele,Maseko,1984-09-25,EC,828137.58
+10465,Lindiwe,Govender,1980-05-12,North West,
+10466,Palesa,TSHABALALA,1991-06-20,KwaZulu-Natal,338415.77
+10467,Refilwe,Molefe,2008-10-29,North West,101870.24
+10468,Naledi,Smith,1985-04-10,Gauteng,448863.81
+10469,Lindiwe,Maseko,1971-07-28,Gauteng,125941.16
+10470,Ayanda,Radebe,,Limpopo,
+10471,Priya,Dlamini,1976-01-03,Limpopo,266316.27
+10472,Thandiwe,van der Merwe,2008-10-29,north west,159406.5
+10473,Lwazi,Petersen,1980-10-18,Gauteng,372717.65
+10474,Sarah,Maseko,1981-06-16,Limpopo,274793.0
+10475,thabo,du Plessis,1971-04-19,Gauteng,169037.24
+10476,Zodwa,du Plessis,1974-07-22,Eastern Cape,483572.5
+10477,Zanele,du Plessis,1992-05-29,Western Cape,327646.16
+10478,Thulani,Petersen,1991-08-15,GAUTENG,278007.99
+10479,Lindiwe,Mthembu,1999-05-11,Gauteng,170858.48
+10480,Neo,Singh,1961-09-28,,360601.26
+10481,Johan,Williams,1977-07-17,Western Cape,182635.7
+10482,naledi,Radebe,1990-11-17,KwaZulu-Natal,151618.82
+10483,Lwazi,Adams,1990-10-19,Mpumalanga,452412.56
+10484,Riaan,Baloyi,1983-01-25,Eastern Cape,211034.99
+10485,YUSUF,Adams,1970-01-09,Mpumalanga ,275457.15
+10486,Bongani,Sithole,1986-03-06,Western Cape,255028.91
+10487,Chantel,Adams,1964-10-20,Gauteng,563992.75
+10488,ANNELIE,Maseko,1983-12-30,KwaZulu-Natal,351069.15
