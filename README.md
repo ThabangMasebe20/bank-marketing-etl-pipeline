@@ -23,14 +23,14 @@ The marketing team wants to target existing customers who are financially health
 
 ## 🏗️ Pipeline Architecture
 
-### 1. Python Data Cleaning (`/notebooks/pipeline.ipynb`)
+### 1. Python Data Cleaning (`/pipeline.ipynb`)
 *   Loaded 4 raw CSVs (Demographics, Accounts, Credit Scores, Transactions).
 *   Handled mixed date formats using `pd.to_datetime(..., format='mixed')`.
 *   Cleaned the `AMOUNT` column by stripping 'R' and ',' using Regex, converting it to a numeric format.
 *   Handled massive null counts (e.g., 202 nulls in `MERCHANT_CATEGORY`).
 *   Exported the cleaned data to `/Updated_files` for database ingestion.
 
-### 2. SQL Data Warehousing (`/sql_scripts/bank_pipeline.sql`)
+### 2. SQL Data Warehousing (`/bank_pipeline.sql`)
 *   **Bronze Layer:** Loaded the cleaned CSVs into raw Oracle tables.
 *   **Silver Layer:** Created Views to standardize text to uppercase, remove duplicates, and format dates.
 *   **Gold Layer:** Built a `CTAS` (Create Table As Select) query using subqueries to aggregate total deposits and travel counts. Calculated account age using `MONTHS_BETWEEN`.
